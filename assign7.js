@@ -1,0 +1,13 @@
+"use strict";
+let num = 4;
+let num1 = 4;
+console.log("addition =", num + num1);
+let num2 = 12;
+let num3 = 4;
+console.log("subtraction =", num2 - num3);
+let num4 = 32;
+let num5 = 4;
+console.log("division =", num4 / num5);
+let num6 = 4;
+let num7 = 2;
+console.log("multiplication =", num6 * num7);
